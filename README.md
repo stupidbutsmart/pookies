@@ -1,6 +1,20 @@
 # Maritime Hackathon
 ---
 
+## Problem Statement
+
+## Materials
+Resources can be found [here](https://drive.google.com/drive/folders/1GKeUc8fePjdsgbLL_b1kMOvCzC8RhITZ)  
+This includes
+  - Datasets
+  - Problem Statement
+  - Submission Templates
+  - Calcuations
+
+## Deliverables
+![image](https://github.com/user-attachments/assets/dbc4e165-3a31-472d-9706-e02b3ed83399)
+
+
 ## Usage
 Open a new folder in your terminal
 ```pwsh
