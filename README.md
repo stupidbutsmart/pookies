@@ -1,7 +1,7 @@
 # Maritime Hackathon
 ---
 
-### Usage
+## Usage
 Open a new folder in your terminal
 ```pwsh
 mkdir maritime_hackathon
@@ -40,3 +40,14 @@ When changes are made in main, run the following code
 ```pwsh
 git pull origin main
 ```
+
+---
+
+## Rulesets
+- All features are to be written in `.py` files
+- The main `index.ipynb` file will be a notebook to show our analysis
+- `index.ipynb` will import functions written inside of other `.py` files
+- **ALL** function , variable names are to follow `snake_case`
+- **ALL** classes are to follow `PascalCase`
+- **ALL** class or object **constant attributes** are to follow `snake_case` with a trailing underscore `_`
+- **ALL** identifiers are to be **verbose and meaningful** (no skibidi sigma)
