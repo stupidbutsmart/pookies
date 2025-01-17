@@ -4,6 +4,7 @@
 ## Problem Statement
 The primary objective is to propose innovative solutions that minimize emissions and optimize port operations by conducting a Just In Time Arrival analysis. Your challenge is to develop strategies that reduce waiting times, which consequently enhance port efficiency and lower carbon emissions.
 
+---
 
 ## Materials
 Resources can be found [here](https://drive.google.com/drive/folders/1GKeUc8fePjdsgbLL_b1kMOvCzC8RhITZ)  
@@ -13,9 +14,12 @@ This includes
   - Submission Templates
   - Calcuations
 
+---
+
 ## Deliverables
 ![image](https://github.com/user-attachments/assets/dbc4e165-3a31-472d-9706-e02b3ed83399)
 
+---
 
 ## Usage
 Open a new folder in your terminal
