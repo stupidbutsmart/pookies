@@ -71,3 +71,5 @@ git pull origin main
 - **ALL** classes are to follow `PascalCase`
 - **ALL** class or object **constant attributes** are to follow `snake_case` with a trailing underscore `_`
 - **ALL** identifiers are to be **verbose and meaningful** (no skibidi sigma)
+- **DATASETS ARE TO BE STORED IN A DEDICATED `./datasets` FOLDER**
+
